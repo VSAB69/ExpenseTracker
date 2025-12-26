@@ -179,10 +179,4 @@ The project can be extended with:
 
 ---
 
-## 👨‍💻 Author
 
-**Anish B**
-Java OOP Mini Project – BMSCE
-2025
-
----
